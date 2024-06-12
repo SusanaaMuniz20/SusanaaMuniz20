@@ -1,6 +1,14 @@
+<!-- Introdução  -->
+<h3 align="center">
+  <samp>&gt; Hello There, I'm
+    <b>
+        <a href="https://github.com/SusanaaMuniz20" target="_blank">Susana Muniz</a>.
+    </b><br>
+    &gt; I'm a systems analysis and development student and junior developer.
+  </samp>
+</h3>
 
-## Olá, sou a Susana e seja bem-vindo ao meu GitHub!
-
+<!-- Linguagens  -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Susana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Susana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -12,7 +20,7 @@
 </div>
 
   ##
-
+<!-- Redes Socias  -->
  ## Contate-me:
 <div> 
   <a href="https://www.instagram.com/susanaamuniz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>
@@ -23,7 +31,7 @@
   
 </div>
 
-
+<!-- Gifs  -->
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
