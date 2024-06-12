@@ -3,12 +3,12 @@
   <samp>&gt; Hello There, I'm
     <b>
         <a href="https://github.com/SusanaaMuniz20" target="_blank">Susana Muniz</a>.
-    </b><br>
-    &gt; I'm a systems analysis and development student and junior developer.
+    </b> <br>
+   &gt; I'm a systems analysis and development student and junior developer. 
   </samp>
 </h3>
 
-###Technologies:
+### Technologies:
 <!-- Linguagens  -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Susana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,17 +19,17 @@
 
 </div>
 
-  ##
+  
 <!-- Redes Socias  -->
  ### Social networks:
 <div> 
   <a href="https://www.instagram.com/susanaamuniz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank" ><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/susanaamuniz" target="_blank" ><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/BCz9rED3" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:susana.andrade.muniz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/susana-muniz-1011621b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
+</div> <br>
 
 <!-- Gifs  -->
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
