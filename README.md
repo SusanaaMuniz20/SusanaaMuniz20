@@ -6,7 +6,6 @@
 </p>
 
 
-<!-- Introdução 
 <h3 align="center">
   <samp>&gt; Hello There, I'm
     <b>
@@ -14,7 +13,7 @@
     </b> <br>
    &gt; I'm a systems analysis and development student and junior developer. 
   </samp>
-</h3> -->
+</h3> 
 
 <h3 align="center"> Statistics: </h3> 
  <div class="center" align="center">
