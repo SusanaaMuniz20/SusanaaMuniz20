@@ -16,6 +16,13 @@
   </samp>
 </h3> -->
 
+<h3 align="center"> Statistics: </h3> 
+ <div class="center" align="center">
+  <a href="https://github.com/SusanaaMuniz20">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusanaaMuniz20&layout=compact&langs_count=16&theme=dracula"/>
+  
+</div>
+
 <!-- Linguagens  -->
 <h3 align="center"> Technologies: </h3> 
 <div align="center "style="display: inline_block"><br>
